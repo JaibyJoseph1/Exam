@@ -15,7 +15,7 @@
         "origin": "Thailand",
         "description": "The Siamese is one of the oldest and most recognizable cat breeds, known for their striking blue almond-shaped eyes, sleek bodies, and short coats.",
         "life_span": "15-20 years",
-        "url": "https://en.wikipedia.org/wiki/Siamese_cat"
+        "url": "https://en.wikipedia.org/wiki/Siamese_cat#/media/File:Siam_lilacpoint.jpg"
     },
     {
         "id": "2",
@@ -24,7 +24,7 @@
         "origin": "United States",
         "description": "The Maine Coon is one of the largest domesticated cat breeds, known for their friendly, dog-like demeanor and tufted ears and paws.",
         "life_span": "12-15 years",
-        "url": "https://en.wikipedia.org/wiki/Maine_Coon"
+        "url": "https://en.wikipedia.org/wiki/Maine_Coon#/media/File:Maine_Coon_cat_by_Tomitheos.JPG"
     },
     {
         "id": "3",
@@ -33,7 +33,7 @@
         "origin": "Iran",
         "description": "Persians are known for their long, luxurious coats and round faces with flat noses. They have a calm demeanor and love to lounge.",
         "life_span": "12-17 years",
-        "url": "https://en.wikipedia.org/wiki/Persian_cat"
+        "url": "https://en.wikipedia.org/wiki/Persian_cat#/media/File:Persialainen.jpg"
     },
     {
         "id": "4",
@@ -42,7 +42,7 @@
         "origin": "United States",
         "description": "The Bengal is a hybrid breed, developed by crossing domestic cats with Asian leopard cats, resulting in a distinctive wild appearance.",
         "life_span": "12-16 years",
-        "url": "https://en.wikipedia.org/wiki/Bengal_cat"
+        "url": "https://en.wikipedia.org/wiki/Bengal_cat#/media/File:Charcoal_Bengal.jpg"
     },
     {
         "id": "5",
@@ -51,6 +51,6 @@
         "origin": "Canada",
         "description": "The Sphynx is a hairless breed, known for their outgoing and friendly nature. They are very people-oriented and require regular skin care.",
         "life_span": "10-15 years",
-        "url": "https://en.wikipedia.org/wiki/Sphynx_cat"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/2_Sphynx_cats_sleeping_together.jpg"
     }
 ]
